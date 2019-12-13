@@ -1,7 +1,6 @@
 {
   "name": "node-db-challenge",
   "version": "1.0.0",
-  "description": "## Description",
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js"
